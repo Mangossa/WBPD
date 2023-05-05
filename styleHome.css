@@ -1,0 +1,55 @@
+#header {
+  color: white;
+}
+div#nav {
+ background-color: #BAA3F9;
+  color: white;
+}
+div#nav ul li a {
+  color: white;
+}
+div#feature {
+ background-color: #ffc0cb;
+ background-image: url("");
+ background-size:contain;
+ background-position: right;
+ background-repeat:no-repeat;
+}
+div#footer {
+  background-color: #BAA3F9;
+}
+
+.article.column1 {
+  background-color: #f08080
+}
+.article.column2 {
+  background-color: #afeeee
+}
+.article.column3 {
+  background-color: #fffacd
+}
+
+
+body {
+  background-image: url('http://4.bp.blogspot.com/-rJW4YqYgaH0/Uh8xoyi2ebI/AAAAAAAAB2Y/7D1F13h5SBU/s1600/Background-Y-Repeat.jpg');
+  background-size: cover;
+
+}
+h1{
+   color: white;
+   font-family: 'JelleeBold';
+   font-weight: normal;
+   font-style: normal;
+}
+h2{
+   color: white;
+   font-family: 'JelleeBold';
+   font-weight: normal;
+   font-style: normal;
+}
+p{
+     color: white;
+   font-family: 'JelleeBold';
+   font-weight: normal;
+   font-style: normal;
+}
