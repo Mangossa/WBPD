@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Liquid Layout</title>
+        <link rel="stylesheet" type="text/css" href="styleMusic.css">
+        <link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/jellee-typeface" type="text/css"/>
+		<style type="text/css">
+			* {
+				font-family: Arial, Verdana, sans-serif;
+				color: #665544;
+				text-align: center;}
+			body {
+				width: 90%;
+				margin: 0 auto;}
+			#content {
+				overflow: auto;}
+			#nav, #feature, #footer {
+				margin: 1%;}
+			.column1, .column2, .column3 {
+				width: 31.3%;
+				float: left;
+				margin: 1%;}
+			.column3 {
+				margin-right: 0%;}
+			li {
+				display: inline;
+				padding: 0.5em;}
+			#nav, #footer {
+				background-color: #efefef;
+				padding: 0.5em 0;}
+			#feature, .article {
+				height: 10em;
+				margin-bottom: 1em;
+				background-color: #efefef;}
+		</style>
+	</head>
+	<body>
+      
+      
+		<div id="header">
+			<h1>Nico Sarmiento</h1>
+			<div id="nav">
+				<ul>
+					<li><a href="https://mangossa.github.io/WBPD/Home">Home</a></li>
+					<li><a href="https://mangossa.github.io/WBPD/About">About</a></li>
+                    <li><a href="https://mangossa.github.io/WBPD/Music">Music</a></li>
+					<li><a href="https://mangossa.github.io/WBPD/Coursework">Coursework</a></li>
+					<li><a href="https://mangossa.github.io/WBPD/Artifacts">Artifacts</a></li>
+					<li><a href="https://mangossa.github.io/WBPD/ModuleAssignments">Module Assignments</a></li>
+                    <li><a href="https://mangossa.github.io/WBPD/ContactMe">Contact Me</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="content">
+          <div id="feature">
+				<h2>WMEA STATE SOLO ENSEMBLE</h2>
+                <p>I'm competing in a state wide music competition on Saturday so I am completely stressed out and unsure how this website will turn out because I need to focus on practicing my piece. The piece is called 
+                  <a href="https://www.youtube.com/watch?v=oEXCrAPyThc" target="_blank"><i>Vox Gabrieli</i></a> and it's written by <i>Stjepan SULEK</i> </p>
+			    
+          </div>
+          
+          <iframe width="420" height="315"
+src="https://www.youtube.com/embed/aVnU0QUGZdc">
+</iframe>
+          <div id="feature">
+				<h2>UPDATE</h2>
+                <p>I did pretty well at State! I got a perfect rating from all the judges, but didn't make </p>
+            <p>the top cut of musicians. I think I'm happy with what I was able to achive. </p>
+          </div>
+          //put a image
+		<div id="footer">
+			<p>&copy; Copyright 2011</p>
+		</div>
+      	
+		
+	</body>
+</html>
