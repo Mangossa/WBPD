@@ -8,7 +8,7 @@ div#nav {
 div#nav ul li a {
   color: black;
 }
-div#feature {
+div#feature , .feature1 {
  background-color: #4d4f5f;
  background-image: url("images/jazzbone.png");
  background-size:contain;
