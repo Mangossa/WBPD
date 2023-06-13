@@ -1,58 +1,56 @@
+
 #header {
-  color: white;
+  color: black;
 }
 div#nav {
- background-color: #4d4f5f;
-  color: white;
+ background-color:white;
+  color: black;
 }
 div#nav ul li a {
   color: black;
 }
-div#feature , .feature1 {
- background-color: #4d4f5f;
- background-image: url("images/jazzbone.png");
+div#feature {
+ background-color: white;
+ background-image: url("");
  background-size:contain;
  background-position: right;
  background-repeat:no-repeat;
 }
 div#footer {
-  background-color: #4d4f5f;
+  background-color: white;
+}
+
+.article.column1 {
+  background-color: #f08080
+}
+.article.column2 {
+  background-color: #afeeee
+}
+.article.column3 {
+  background-color: #fffacd
 }
 
 
 body {
-  background-image: url('https://www.designbolts.com/wp-content/uploads/2012/12/White-Gradient-Squares-Seamless-Patterns-For-Website-Backgrounds.jpg');
+  background-image: url('https://www.designbolts.com/wp-content/uploads/2012/11/Nami-beautiful-black-seamless-Photoshop-pattern-for-website-backgrounds.jpg');
   background-size: cover;
 
 }
-i{
-   color: blue;
+h1{
+   color: white;
+   font-family: 'JelleeBold';
+   font-weight: normal;
+   font-style: normal;
+}
+label, h2 , h3, a{
+   color: black;
    font-family: 'JelleeBold';
    font-weight: normal;
    font-style: normal;
 }
 p{
-   color: black;
+     color: black;
    font-family: 'JelleeBold';
    font-weight: normal;
    font-style: normal;
 }
-h1{
-   color: black;
-   font-family: 'JelleeBold';
-   font-weight: normal;
-   font-style: normal;
-}
-h2{
-   color: black;
-   font-family: 'JelleeBold';
-   font-weight: normal;
-   font-style: normal;
-}
-h3{
-   color: black;
-   font-family: 'JelleeBold';
-   font-weight: normal;
-   font-style: normal;
-}
-
