@@ -1,22 +1,23 @@
+
 #header {
-  color: white;
+  color: black;
 }
 div#nav {
- background-color: #BAA3F9;
-  color: white;
+ background-color:white;
+  color: black;
 }
 div#nav ul li a {
-  color: white;
+  color: black;
 }
 div#feature {
- background-color: #ffc0cb;
+ background-color: white;
  background-image: url("");
  background-size:contain;
  background-position: right;
  background-repeat:no-repeat;
 }
 div#footer {
-  background-color: #BAA3F9;
+  background-color: white;
 }
 
 .article.column1 {
@@ -31,7 +32,7 @@ div#footer {
 
 
 body {
-  background-image: url('http://4.bp.blogspot.com/-rJW4YqYgaH0/Uh8xoyi2ebI/AAAAAAAAB2Y/7D1F13h5SBU/s1600/Background-Y-Repeat.jpg');
+  background-image: url('https://www.designbolts.com/wp-content/uploads/2012/11/Nami-beautiful-black-seamless-Photoshop-pattern-for-website-backgrounds.jpg');
   background-size: cover;
 
 }
@@ -41,14 +42,14 @@ h1{
    font-weight: normal;
    font-style: normal;
 }
-h2{
-   color: white;
+label, h2 , h3, a{
+   color: black;
    font-family: 'JelleeBold';
    font-weight: normal;
    font-style: normal;
 }
 p{
-     color: white;
+     color: black;
    font-family: 'JelleeBold';
    font-weight: normal;
    font-style: normal;
